@@ -36,3 +36,4 @@ def get_one_hot(char: str):
 
 if __name__ == '__main__':
     print(get_one_hot('飘'))
+    # test
